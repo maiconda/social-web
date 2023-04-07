@@ -1,0 +1,21 @@
+{
+  "posts": [],
+  "users": [
+    {
+      "name": "Maicon de Oliveira da Silva",
+      "email": "maicondeoliveiradasilva24@gmail.com",
+      "img": "https://lh3.googleusercontent.com/a/AGNmyxZC3_0JLqixgWCCQFya8OkKv3TaGT056FlmPpev=s96-c",
+      "notify": [],
+      "endpoints": [],
+      "id": 1
+    },
+    {
+      "endpoints": [],
+      "notify": [],
+      "name": "Maicon de Oliveira da Silva",
+      "email": "maicon2411slash@gmail.com",
+      "img": "https://lh3.googleusercontent.com/a/AGNmyxZWPk6vtdzpRNtEE_4DNnRW_0Zt6-q6nQ9R3kNERA=s96-c",
+      "id": 2
+    }
+  ]
+}

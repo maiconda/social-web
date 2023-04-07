@@ -1,0 +1,39 @@
+.notification{
+    border: 1px solid #e1e4ed;
+    padding: 9px;
+    margin-bottom: 8px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.notification:hover{
+    border-right: 5px solid #1877f2;
+    transition: .3s;
+    background-color: #fbfbfc;
+    border: 1px solid #1877f2;
+    border-right: 4px solid #1877f2;
+}
+
+.notification:last-child{
+    margin-bottom: 0;
+}
+
+.notification p{
+    margin: 0;
+    color: #132b49;
+    font-weight: 600;
+}
+
+.notification img{
+    height: 50px;
+    margin-right: 14px;
+    border-radius: 8px;
+}
+
+.no-notification{
+    background-color: #f0f0f0ce;
+    border: 1px solid #1877f2;
+}

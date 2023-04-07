@@ -1,0 +1,33 @@
+.error-div{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.error-div div{
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    padding: 50px;
+    border-radius: 20px;
+    text-align: center;
+    border: 2px solid #e8eaf1;
+}
+
+.error-div button{
+    background-color: #1877f2;
+    color: white;
+    border: none;
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.error-div h2{
+    margin: 0;
+    font-size: 23px;
+    color: #1d3a5f ;
+}
