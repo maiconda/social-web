@@ -1,6 +1,7 @@
 # Social Web (em desenvolvimento)
 
-![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/111695088/219797524-9cc33a8c-cae1-4a93-b805-df612bc8a3b7.gif)
+![ezgif com-video-to-gif](https://github.com/maiconda/social-web/assets/111695088/4a974a20-36c9-4c2a-91e8-81f4c2ee21bc)
+![ezgif com-video-to-gif (1)](https://github.com/maiconda/social-web/assets/111695088/2f46f376-bf0e-4f40-a400-c19dd0f03925)
 
 ## Sobre o Projeto
 
